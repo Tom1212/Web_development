@@ -1,0 +1,235 @@
+Abbotsford
+Aircraft
+Alamein
+Albion
+Alphington
+Altona,245,241
+Anstey
+Armadale
+Ascot Vale
+Ashburton
+Aspendale
+Auburn
+Balaclava
+Batman
+Baxter
+Bayswater,430,223
+Beaconsfield
+Belgrave
+Bell
+Bentleigh
+Berwick,436,316
+Bittern
+Blackburn
+Bonbeach
+Boronia
+Box Hill,356,218
+Brighton
+Brighton Beach
+Broadmeadows,279,155
+Brunswick
+Burnley
+Burwood
+Camberwell
+Canterbury
+Cardinia Road
+Carnegie
+Carrum
+Caulfield,326,245
+Caulfield East,326,245
+Chatham
+Chelsea,354,328
+Cheltenham
+Clayton
+Clayton South
+Clifton Hill
+Coburg,297,181
+Coburg North,297,181
+Collingwood
+Coolaroo
+Craigieburn,286,115
+Cranbourne,412,352
+Cranbourne North,412,352
+Crib Point
+Croxton
+Croydon
+Dandenong,383,297
+Darebin
+Darling
+Dennis
+Diamond Creek
+Diggers Rest,214,131
+Eaglemont
+East Camberwell
+East Malvern
+East Melbourne
+East Richmond
+Edithvale
+Elsternwick
+Eltham,363,171
+Epping
+Essendon
+Fairfield
+Fawkner
+Ferntree Gully
+Fitzroy North
+Flagstaff
+Flemington
+Flemington Bridge
+Flemington Racecourse
+Flinders Street
+Footscray
+Frankston,355,367
+Gardenvale
+Gardiner
+Ginifer
+Glen Huntly
+Glen Iris
+Glen Waverley,370,246
+Glenbervie
+Glenferrie
+Glenhuntly
+Glenroy
+Gowrie
+Greensborough
+Hallam,406,307
+Hampton
+Hartwell
+Hastings
+Hawksburn
+Hawthorn
+Hawthorn East
+Heatherdale
+Heathmont
+Heidelberg
+Heyington
+Highett
+Holmesglen
+Hoppers Crossing
+Hughesdale
+Huntingdale
+Hurstbridge,378,134
+Ivanhoe
+Jacana
+Jewell
+Jolimont-MCG
+Jordanville
+Kananook
+Keilor Plains,250,170
+Kensington
+Keon Park
+Kooyong
+Laburnum
+Lalor
+Laverton
+Leawarra
+Lilydale
+Lynbrook
+Macaulay
+Macleod
+Malvern
+Malvern East
+Mckinnon
+Melbourne Central,296,215
+Melbourne City,296,215
+Mentone,334,295
+Merinda Park
+Merlynston
+Merri
+Middle Brighton
+Middle Footscray
+Mitcham
+Mont Albert
+Montmorency
+Moonee Ponds
+Moorabbin,323,273
+Mooroolbark
+Mordialloc,344,305
+Moreland
+Morradoo
+Mount Waverley
+Murrumbeena
+Narre Warren
+Newmarket
+Newport
+Noble Park
+North Brighton
+North Melbourne
+North Richmond
+North Williamstown
+Northcote
+Nunawading,374,217
+Oak Park
+Oakleigh
+Officer
+Ormond
+Pakenham,460,330
+Parkdale
+Parkville
+Parliament
+Pascoe Vale
+Patterson
+Prahran
+Preston,311,181
+Regent
+Reservoir
+Richmond
+Ringwood
+Ringwood East
+Ripponlea
+Riversdale
+Rosanna
+Roxburgh Park
+Royal Park
+Rushall
+Ruthven
+Sandown Park
+Sandringham
+Seaford,356,351
+Seaholme
+Seddon
+Somerville
+South Kensington
+South Morang
+South Yarra
+Southern Cross
+Spotswood
+Springvale,365,293
+St Albans
+Stony Point
+Strathmore
+Sunbury,207,106
+Sunshine,248,201
+Sunshine North,248,201
+Surrey Hills
+Sydenham
+Syndal
+Tecoma
+Thomastown
+Thornbury
+Toorak
+Tooronga
+Tottenham
+Tyabb
+Upfield
+Upper Ferntree Gully
+Upwey,432,257
+Victoria Park
+Watergardens
+Watsonia
+Wattle Glen
+Werribee,186,253
+West Footscray
+West Melbourne
+West Richmond
+Westall
+Westgarth
+Westona
+Williams Landing
+Williamstown
+Williamstown Beach
+Willison
+Windsor
+Yarraman
+Yarraville
+
